@@ -1,69 +1,57 @@
-# Hi, I'm Adam ! 👋
+# Hi, I'm Adam 👋
 
-IT student interested in Linux, networking, cybersecurity and automation.
+### IT Student · Linux · Networking · Automation · Cybersecurity
 
-I like working on practical projects to improve my technical skills and better understand how IT infrastructures work.
+I'm an IT student interested in **Linux administration, networking, infrastructure automation and cybersecurity**.
 
-## 💻 Skills & Technologies
+I like learning by building practical projects and documenting what I learn along the way.
+
+---
+
+### Technologies
 
 **Systems**
-- Linux
-- Ubuntu
-- Bash
+`Linux` `Ubuntu` `Bash`
 
 **Automation**
-- Ansible
-- YAML
+`Ansible` `YAML`
 
 **Networking**
-- TCP/IP
-- SSH
-- Wake-on-LAN
-- Network configuration
+`TCP/IP` `SSH` `Wake-on-LAN`
 
-**Cybersecurity**
-- Kali Linux
-- Linux hardening
-- SSH security
-- LUKS encryption
+**Security**
+`Kali Linux` `LUKS` `Linux Hardening`
 
 **Tools**
-- Git
-- GitHub
-- VS Code
+`Git` `GitHub` `VS Code`
 
-## 📂 Projects
+---
 
-### Linux Fleet Automation — Ansible
+### Projects
 
-A project focused on automating the administration of multiple Linux machines with Ansible.
+**[Linux Fleet Automation](https://github.com/fl1zon/linux-fleet-automation)**  
+Linux administration and automation with Ansible, including Wake-on-LAN and remote LUKS unlocking.
 
-The project covers:
-- Linux user management
-- SSH key authentication
-- System updates
-- Software installation
-- Remote configuration
-- Error handling and logging
-- Wake-on-LAN
-- Remote LUKS unlocking using Dropbear
+More projects coming soon.
 
-More details and documentation are available in the project repository.
+---
 
-## 🔨 Currently working on
+### Currently learning
 
-- Linux infrastructure automation
-- Networking labs
-- Linux security and hardening
-- Cybersecurity labs
-- Infrastructure monitoring
+- Linux system administration
+- Network administration
+- Infrastructure automation
+- Cybersecurity
+- Git & GitHub
 
-## About me
+---
 
-I'm currently working on improving my skills in system administration, networking, cybersecurity and automation.
+### Goals
 
-My goal is to continue developing these skills through engineering studies, personal projects and professional experience.
+I'm working towards engineering studies in IT and looking to develop my skills through practical projects and professional experience.
 
-## 📫 Contact
+---
 
-GitHub: [@fl1zon](https://github.com/fl1zon)
+<p align="center">
+  <i>Learning by building.</i>
+</p>
